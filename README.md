@@ -1,3 +1,4 @@
-# temper-ui
+# fab-UI(fabulous UI)
 
-use and don't look back
+- A user friendly UI library
+- just ctrl+c, ctrl+v and you are good to go

@@ -1,0 +1,19 @@
+{
+    "$schema": "https://ui.shadcn.com/schema/registry.json",
+    "name": "fab-UI",
+    "homepage": "https://fab-ui.vercel.app",
+    "items": [
+        {
+            "name": "button-component",
+            "type": "registry:component",
+            "title": "Button Component",
+            "description": "A simple button component.",
+            "files": [
+                {
+                    "path": "src/components/Button/Button.tsx",
+                    "type": "registry:component"
+                }
+            ]
+        }
+    ]
+}
