@@ -1,7 +1,7 @@
 // import { useState } from "react";
 import "./App.css";
-// import Button from "./components/Button/Button.tsx";
-import { Button } from "@/components/ui/button";
+import Button from "./components/Button/Button.tsx";
+// import { Button } from "@/components/ui/button";
 
 function App() {
     return (
